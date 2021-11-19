@@ -4,7 +4,7 @@ A plane in Hessian Normal Form defined by `ax + by + cz + d = 0` where `[a, b, c
 
 ## Usage
 
-Create the plane `x=0`
+Create the plane `d=0`
 
 ```js
 import {Plane} from '@math.gl/culling';
